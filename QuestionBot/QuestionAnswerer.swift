@@ -5,8 +5,7 @@ struct MyQuestionAnswerer {
         "coconut",
         "shrimp",
         "lobster",
-        "shellfish",
-        
+        "shellfish"
     ];
     
     let likes: [String] = [
