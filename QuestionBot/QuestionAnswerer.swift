@@ -34,7 +34,7 @@ struct MyQuestionAnswerer {
             }
         }
 
-        return "I have no string opinion.";
+        return "I have no strong opinion.";
     }
     
 }

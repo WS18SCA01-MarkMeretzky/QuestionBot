@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					4C70A30E1CC4517D00D64014 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = L7QFUUQJZ7;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -276,6 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L7QFUUQJZ7;
 				INFOPLIST_FILE = QuestionBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.QuestionBot;
@@ -289,6 +291,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L7QFUUQJZ7;
 				INFOPLIST_FILE = QuestionBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.QuestionBot;
